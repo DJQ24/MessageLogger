@@ -1,0 +1,7 @@
+{
+	"name": "MessageLogger",
+	"description": "Permanently logs all messages from whitelisted servers and users, even when you're not in that channel.",
+	"authors": [{ "name": "you", "id": "0" }],
+	"main": "./index.js",
+	"vendetta": { "icon": "ic_search_24px" }
+}
